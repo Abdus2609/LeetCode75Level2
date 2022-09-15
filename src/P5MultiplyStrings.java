@@ -1,6 +1,3 @@
-import java.util.ArrayList;
-import java.util.*;
-
 public class P5MultiplyStrings {
     
     public static String multiply(String num1, String num2) {
